@@ -1,2 +1,2 @@
-# My-Project
-This is my Sample Project
+Hacker Rank Solution
+
